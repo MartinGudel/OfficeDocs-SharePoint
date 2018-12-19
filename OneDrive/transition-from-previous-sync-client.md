@@ -114,7 +114,7 @@ To prevent users from using the previous OneDrive for Business sync client, foll
 Set-SPOTenantSyncClientRestriction [-GrooveBlockOption <String> "OptOut"|"HardOptIn"|"SoftOptIn"] 
 ```
 
-For more information, see [Get-SPOTenantSyncClientRestriction](/powershell/module/sharepoint-online/Get-SPOTenantSyncClientRestriction). 
+For more information, see [Set-SPOTenantSyncClientRestriction](/powershell/module/sharepoint-online/set-spotenantsyncclientrestriction?view=sharepoint-ps). 
   
 
   
